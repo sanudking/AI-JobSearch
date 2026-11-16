@@ -3,7 +3,7 @@
 A small, database-free resume-to-job matching prototype. Upload a text-based PDF resume, search Adzuna listings, retrieve relevant jobs with BGE embeddings, and evaluate the shortlist with Groq `openai/gpt-oss-120b`.
 ## Screenshot / Preview
 
-![JobMatch UI Screenshot](assets/screenshot.png)
+![JobMatch UI Screenshot](screenshot.png)
 ## Requirements
 
 - Python 3.11 or 3.12
